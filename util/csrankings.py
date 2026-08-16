@@ -332,6 +332,7 @@ areadict: Dict[Area, List[Conference]] = {
     Area("rss"): [Conference("Robotics: Science and Systems")],
     Area("crypto"): [Conference("CRYPTO")] + [Conference(f"CRYPTO ({i})") for i in range(1, 11)],
     Area("eurocrypt"): [Conference("EUROCRYPT")] + [Conference(f"EUROCRYPT ({i})") for i in range(1, 9)],
+    Area("tcc"): [Conference("TCC")] + [Conference(f"TCC ({i})") for i in range(1, 9)],
     Area("ismb"): [
         Conference("ISMB"),
         Conference("Bioinformatics"),

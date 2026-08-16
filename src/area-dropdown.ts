@@ -72,7 +72,7 @@ namespace CSRankings {
         'popl': 'POPL', 'pldi': 'PLDI', 'oopsla': 'OOPSLA', 'icfp': 'ICFP',
         'fse': 'FSE', 'icse': 'ICSE', 'ase': 'ASE', 'issta': 'ISSTA',
         'focs': 'FOCS', 'soda': 'SODA', 'stoc': 'STOC',
-        'crypto': 'CRYPTO', 'eurocrypt': 'EUROCRYPT',
+        'crypto': 'CRYPTO', 'eurocrypt': 'EUROCRYPT', 'tcc': 'TCC',
         'cav': 'CAV', 'lics': 'LICS',
         'siggraph': 'SIGGRAPH', 'siggraph-asia': 'SIGGRAPH Asia', 'eurographics': 'Eurographics',
         'chiconf': 'CHI', 'ubicomp': 'UbiComp', 'uist': 'UIST',

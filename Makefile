@@ -9,8 +9,8 @@ TARGETS = csrankings.js csrankings.min.js submit/submit.js generated-author-info
 
 .PHONY: home-pages scholar-links fix-affiliations update-dblp clean-dblp download-dblp shrink-dblp clean-csrankings update-author-names update-dblp-full apply-author-names backup-dblp update-dblp-date download-prev-dblp
 
-PYTHON = python3.12 # 3.7
-PYPY   = python3.12 # pypy
+PYTHON = python3 # 3.7
+PYPY   = python3 # pypy
 
 # DBLP   = dblp.org
 DBLP   = dblp.uni-trier.de

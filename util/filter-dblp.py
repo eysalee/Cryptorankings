@@ -71,6 +71,7 @@ BOOKTITLES = frozenset([
     "CRYPTO (5)", "CRYPTO (6)", "CRYPTO (7)", "CRYPTO (8)", "CRYPTO (9)", "CRYPTO (10)",
     "EUROCRYPT", "EUROCRYPT (1)", "EUROCRYPT (2)", "EUROCRYPT (3)", "EUROCRYPT (4)",
     "EUROCRYPT (5)", "EUROCRYPT (6)", "EUROCRYPT (7)", "EUROCRYPT (8)",
+    "TCC", "TCC (1)", "TCC (2)", "TCC (3)", "TCC (4)", "TCC (5)", "TCC (6)", "TCC (7)", "TCC (8)", 
 
     # High-Performance Computing
     "SC", "HPDC", "ICS", "IPDPS",
